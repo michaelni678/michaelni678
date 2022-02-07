@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @michaelni678
 - 👀 I’m interested in everything from software development to machine learning!
-- 🌱 I’m currently learning C in my computer science course. I'm experimenting with GTK and gui development to have fun and practice C simultaneously. 
+- 🌱 Student @ RPI
 - 📫 You can reach me at michael.ni678@gmail.com.
